@@ -1,6 +1,3 @@
-//Sara Afaneh 8955232
-//GITHUB LINK:
-
 
 #include<stdio.h> 
 #include <stdbool.h> //to use true/false
@@ -172,6 +169,7 @@ void flip_array(int arr[], int length, int out[]){
 }
 
 //using a single for loop to create a reversed copy of array inside out
+
 
 
 
